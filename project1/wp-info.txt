@@ -1,0 +1,7 @@
+Data Base Name: wpproject1
+Database user name: mahmud
+Database user pass: ###20521519***
+
+Generate pass:    o.hKCTugvIuafj)Q
+
+Table Prefix wp_
